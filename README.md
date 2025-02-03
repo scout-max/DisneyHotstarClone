@@ -2,6 +2,8 @@
 
 ## This project has been made with the help of HTML, CSS, JAVASCRIPT.
 
-![priviewimage](https://github.com/user-attachments/assets/60317fd9-8148-4de8-87c4-f1ec6f70cde7)
+![Disney+ Clone - JioSphere 03-02-2025 12_25_42](https://github.com/user-attachments/assets/b9886acc-032f-4aed-b408-6d6ab3ac0270)
 
-![priviewimage2](https://github.com/user-attachments/assets/d6310c8c-4cee-4f89-81fe-8d8ee3a09d97)
+
+![Hotstar - File Explorer 03-02-2025 12_27_51](https://github.com/user-attachments/assets/602c31f1-2214-4159-adfc-61f726e1a9a7)
+
