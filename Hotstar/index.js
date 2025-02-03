@@ -2,31 +2,31 @@ let movies = [
   {
     name: "falcon and the winter soldier",
     des:
-      "This is the Disney+ Hotstar clone by S. Gargee, Student of NIT Jalandhar, Btech 3rd Year, Instrumentation and Control Engineering",
+      "This is the Disney+ Hotstar clone by H. SRIDHAR, Student of GIET , Btech 3rd Year, Computer Science and Engineering (AIML)",
     image: "slider 2.png"
   },
   {
     name: "loki",
     des:
-      "This is the Disney+ Hotstar clone by S. Gargee, Student of NIT Jalandhar, Btech 3rd Year, Instrumentation and Control Engineering",
+      "This is the Disney+ Hotstar clone by H. SRIDHAR, Student of GIET , Btech 3rd Year, Computer Science and Engineering (AIML)",
     image: "slider 1.png"
   },
   {
     name: "wanda vision",
     des:
-      "This is the Disney+ Hotstar clone by S. Gargee, Student of NIT Jalandhar, Btech 3rd Year, Instrumentation and Control Engineering",
+      "This is the Disney+ Hotstar clone by H. SRIDHAR, Student of GIET , Btech 3rd Year, Computer Science and Engineering (AIML)",
     image: "slider 3.png"
   },
   {
     name: "Luca",
     des:
-      "This is the Disney+ Hotstar clone by S. Gargee, Student of NIT Jalandhar, Btech 3rd Year, Instrumentation and Control Engineering",
+      "This is the Disney+ Hotstar clone by H. SRIDHAR, Student of GIET , Btech 3rd Year, Computer Science and Engineering (AIML)",
     image: "slider 5.png"
   },
   {
     name: "Raya & The last Dragon",
     des:
-      "This is the Disney+ Hotstar clone by S. Gargee, Student of NIT Jalandhar, Btech 3rd Year, Instrumentation and Control Engineering",
+      "This is the Disney+ Hotstar clone by H. SRIDHAR, Student of GIET , Btech 3rd Year, Computer Science and Engineering (AIML)",
     image: "slider 4.png"
   }
 ];
